@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XANDRAO
+- 👋 Hi, I’m a   Alexandre de Souza Moreira
 - 👀 I’m interested in ...Working as a junior developer
 - 🌱 I’m currently learning ...HTML 5 java script
 - 💞️ I’m looking to collaborate on ...with my team and bring benefits to the company
